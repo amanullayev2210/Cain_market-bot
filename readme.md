@@ -1,6 +1,7 @@
 Cain Online Market Bot
 
 Telegram uchun mahsulot sotish va boshqarish imkoniyatiga ega bot.
+
 📌 Xususiyatlar:
 
     1. Mahsulotlarni qo‘shish va ko‘rish
