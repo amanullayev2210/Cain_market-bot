@@ -19,4 +19,4 @@ Telegram uchun mahsulot sotish va boshqarish imkoniyatiga ega bot.
     
     3. main.py ni ishga tushuring
 
-🔗 GitHub: [https://github.com/amanullayev2210/Cain_market-bot]
+🔗 GitHub: https://github.com/amanullayev2210/Cain_market-bot
